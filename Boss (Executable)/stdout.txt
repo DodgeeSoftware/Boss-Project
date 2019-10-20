@@ -1,0 +1,5 @@
+Game::init()
+Game::initWindow()
+Game::initAudio()
+Game::initText()
+Game::quit()
